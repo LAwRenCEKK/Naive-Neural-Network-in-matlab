@@ -7,4 +7,5 @@ Components:
 - test.m (used to train the model)
 - testing2.mat (model parameters including optimazed weight and bias parameters)
 - test_vidualize.m/visualize.m (To visualize the results)
-![Alt text](/Naive-Neural-Network-in-matlab/reasult.jpg?raw=true "Title")
+
+![Screenshot](result.jpg)
